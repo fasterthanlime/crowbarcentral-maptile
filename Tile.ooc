@@ -6,8 +6,7 @@ Tile: class extends Drawable {
     
     init: func (=id)
     
-    // println gives a segfault
     println: func (x: Int, y: Int) {
         "(%d, %d, %ld)" format(x, y, id) println()
-	}	
+    }   
 }
