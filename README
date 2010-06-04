@@ -1,5 +1,7 @@
 Rewrote some of @wandernauta's code using pure ooc arrays, which are severely under-documented. One more example can't hurt =)
 
+Compile and run Map.ooc, and then go read the code, of course
+
 You need the latest rock, as usual: http://github.com/nddrylliog/rock
 
 Enjoy!
